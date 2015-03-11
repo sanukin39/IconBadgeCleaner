@@ -1,7 +1,7 @@
-# IconBadgeCleaner for Unity
+# iOS IconBadgeCleaner for Unity
 
-overview
-We can use icon badge when app notifications(iOS platform). But There is a no method for clean these badge.
+## overview
+We can use icon badge when app notifications occurred. But There is a no method for clean these badge at Unity.
 This is a simplest plugin for clean icon badge.
 
 ## Description
